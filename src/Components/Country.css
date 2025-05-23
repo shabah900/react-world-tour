@@ -1,0 +1,10 @@
+.country-box{
+    border: 2px solid yellow ;
+    width: 350px;
+
+    margin :20px;
+    padding: 20px;
+}
+.visited{
+    background-color: green;
+}
